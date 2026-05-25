@@ -13,13 +13,13 @@
 
 ---
 
-## 💎 Unlock PREMIUM Version (Unlimited Enemy Tracking)
+## 💎 Unlock PREMIUM Version (Upgraded Enemy Tracking)
 
-Want to track whole rival clans (5, 10, or 20+ players simultaneously) and secure your base 24/7? 
+Want to track whole rival clans (5, 10 players simultaneously) and secure your base 24/7? 
 
 ### ⚡ How to get a PREMIUM License Key:
 🛒 **Buy instantly on FunPay:** [ВСТАВЬ СЮДА ССЫЛКУ НА СВОЙ ЛОТ НА FUNPAY]
-🤖 **Or contact the developer in Telegram:** [@Oxyles]
+🤖 **Or contact the developer in Telegram:** @Oxyles
 
 *After purchasing, just enter your unique key inside the app to unlock unlimited power!*
 
