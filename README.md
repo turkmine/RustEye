@@ -19,7 +19,7 @@ Want to track whole rival clans (5, 10, or 20+ players simultaneously) and secur
 
 ### ⚡ How to get a PREMIUM License Key:
 🛒 **Buy instantly on FunPay:** [ВСТАВЬ СЮДА ССЫЛКУ НА СВОЙ ЛОТ НА FUNPAY]
-🤖 **Or contact the developer in Telegram:** [ВСТАВЬ СЮДА СВОЙ ТГ @юзернейм]
+🤖 **Or contact the developer in Telegram:** [@Oxyles]
 
 *After purchasing, just enter your unique key inside the app to unlock unlimited power!*
 
