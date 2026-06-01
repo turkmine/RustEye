@@ -1,4 +1,4 @@
-# 👁️ RustEye v1.0.0 (Free Public Version)
+# 👁️ RustEye v1.2.0 (Free Public Version)
 
 **RustEye** is an ultra-lightweight CLI tactical tool for Rust players and clans. Monitor your server, calculate raids, and scrape player telemetry directly inside your terminal with **0% impact on your game's FPS**!
 
