@@ -32,3 +32,4 @@ Want to track whole rival clans (5, 10 players simultaneously) and secure your b
 3. Run `RustEye.exe` and dominate the wipe!
 
 *100% Safe from EasyAntiCheat (EAC) — communicates strictly via public web APIs.*
+<img width="837" height="393" alt="image" src="https://github.com/user-attachments/assets/9cde3de9-1b0a-4794-b824-7622e3b989b4" />
